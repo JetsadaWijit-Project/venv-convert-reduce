@@ -38,3 +38,9 @@ pip install pillow
 python con_webp_to_png.py
 python reduce_under_2MB.py
 ```
+
+# Important
+
+Before we start the project, we need to prepare the data in data/raw/{name}.webp.
+
+You can place all images there and then begin the process.
